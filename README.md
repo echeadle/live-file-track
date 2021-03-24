@@ -1,2 +1,2 @@
-# Automatically Tracking File Changes with Python
-## Live Project
+## Automatically Tracking File Changes with Python
+### Live Project  -- Maning Publications
