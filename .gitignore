@@ -1,0 +1,7 @@
+# done save python Virtual Environment
+venv
+
+# Don't upload books
+Books
+
+Live.code-workspace
