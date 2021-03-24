@@ -26,5 +26,5 @@ cursor.execute("update people set count=? where name=?", (20, "Jill"))
 result = cursor.execute("select * from people")
 print(result.fetchall())
 
-
+conn.close()
 
