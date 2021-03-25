@@ -7,7 +7,7 @@ import sys
 def create_file_tracking_db(full_path_to_name):
     """Create File Tracking Database"""
     return sqlite3.connect(full_path_to_name)
-)
+
 
 
 # Write a function that can query the master database 
